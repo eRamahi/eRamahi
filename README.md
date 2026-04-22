@@ -4,7 +4,7 @@
 
 ### MSc Student in AI & Data Science | Machine Learning Enthusiast
 
-🎓 **Sakarya University** · Istanbul, Türkiye  
+🎓 **Sakarya University** · Sakarya, Türkiye  
 💼 Open to opportunities in **Machine Learning** & **AI Engineering**
 
 ---
